@@ -13,6 +13,8 @@
 
 ## 各種アカウント
 <p>
+<a href="https://github.com/hisashioomoto" target="_blank"><img src="https://img.shields.io/badge/-hisashioomoto-181717.svg?logo=github&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/hisashi-oomoto-030537226" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=flat-square"></a>
 
 </p>
 
@@ -20,14 +22,13 @@
 
 ## 保有スキル
 
-<!-- - JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助 -->
-
-
+- mySQLをはじめ各種RDBによるスキーマ設計
+- python, node.js, PHPでのサーバーサイドAPIの設計構築
+- JavaScript jQuery でのフロントエンド開発
+- JavaScript Vue/nuxt.js でのフロントエンド開発
+- GitLab によるCI/CD構築
+- Dockerにより各種OSS要件に合わせた各種ビルド設計
+- 少人数チームのプロジェクト向け運用の構築
 
 ---
 
@@ -35,27 +36,26 @@
 
 ### 言語
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=flat-square">
+<img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square">
 </p>
 
 ### フレームワーク・その他
 <p>
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=flat-square">
+<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=flat-square">
+<img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=flat-square">
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=flat-square">
+<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square">
+<img src="https://img.shields.io/badge/-Mongodb-47A248.svg?logo=mongodb&style=flat-square">
+<img src="https://img.shields.io/badge/-Jquery-0769AD.svg?logo=jquery&style=flat-square">
+<img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=flat-square">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square">
+<img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat-square">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat-square">
+<img src="https://img.shields.io/badge/-Blender-F5792A.svg?logo=blender&style=flat-square">
 </p>
 
 ---
@@ -64,12 +64,27 @@
 
 ### 電機メーカー子会社（2005/04〜現在）
 
-大学を卒業後、電気メーカーの保守事業を行う子会社に入社。金融系ユーザーの機器、システム導入を中心に活動、導入台数千～２万台、最大５年間に及ぶ計６つの大規模プロジェクトをリーダーとして成功させた。それぞれのプロジェクトではプロセス管理用のシステム開発を同時に行い、顧客のニーズ変化や、膨大な社内業務に最大限効率化するシステムを含めた運用体制を構築した。またこれらシステム開発で得たナレッジから汎用作業管理システムを開発、全社の基幹システムとしてリリースし、全社の作業工数の大幅な削減を実現。
+大学を卒業後、電気メーカーの保守事業を行う子会社に入社。金融系ユーザーの機器導入プロジェクトを中心に活動、導入台数千～２万台、最大５年間に及ぶ計６つの大規模プロジェクトをリーダーとして成功させた。それぞれのプロジェクトではプロセス管理用のシステム開発を同時に行い、顧客のニーズ変化や、膨大な社内業務に最大限効率化するシステムを含めた運用体制を構築した。またこれらシステム開発で得たナレッジから汎用作業管理システムを開発、全社の基幹システムとしてリリースし、全社の作業工数の大幅な削減を実現。その後、新規事業むけPOC開発を中心に事業企画部門に異動し、新規事業の創出に向けて活動。
 
+#### 金融系システム導入プロジェクト（抜粋）
 
-- **プロジェクト規模：**
-    - 平均 2〜5 人チームでのスクラム開発
-- **プロジェクト詳細：**
+- **規模・ミッション：**
+    - 金融機器約12,000台の導入
+- **詳細：**
+    - 顧客との各種調整によるマスタースケジュールの作成
+    - グループ各社（設計・品証・物流部門）との各種調整業務
+    - 導入展開チーム向けの運用設計
+    - 現地作業者向けの作業指示・教育
+    - プロセス管理用のシステム設計・開発
+    - 運用中の顧客報告等の対応
+- **実績：**
+    - 無事故での運用を現在でも継続
+
+#### 汎用作業管理システムの開発
+
+- **規模：**
+    - 40万件/年間の現場作業全ての後方支援とエビデンス管理業務を担うシステムの開発
+- **詳細：**
     - Vue.js での SPA 開発
     - Python, Django での API 開発
     - ライブラリアップデートの仕組み作り
@@ -80,7 +95,6 @@
     - フロントエンド改善活動（改善チームの組成、課題の整理・実装）
     - フロントエンド勉強会の主催
     - エンジニア採用（採用広報、選考活動）
-
 ---
 
 ## 業務外活動
